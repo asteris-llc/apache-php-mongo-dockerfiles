@@ -1,5 +1,7 @@
 FROM ubuntu:14.04
 
+MAINTAINER Steven Borrelli <steve@aster.is>
+
 #Mongo PHP driver version
 
 ENV MONGO_VERSION 2.2.7
